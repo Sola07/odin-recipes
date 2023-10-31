@@ -1,1 +1,2 @@
 # odin-recipes
+Ceci est un projet afin de compléter la section HTML de Foundations de The Odin Project. Dans ce projet, je vais devoir mobiliser toutes les connaissances acquises depuis le début de ce cours telles que : créer un fichier html, quelles sont les commandes de bases ? Rajouter une photo, une vidéo, un lien et surtout utiliser git et github (et ça c'est quand même encore très flou pour moi)
