@@ -5,18 +5,33 @@ body {
     text-align: center;
 }
 
+h2{
+    text-align: center;
+    font-size: 24px;
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+}
+
 .intro {
     background-color: aliceblue;
     color: rgb(231, 124, 10);
+    text-align: left ;
     border-top: 1px solid rgb(231, 124, 10);
     border-bottom: 1px solid rgb(231, 124, 10);
     border-right: 1px solid rgb(231, 124, 10);
     border-left: 1px solid rgb(231, 124, 10);   
     margin-left: 50px;
     margin-right: 50px;
+    margin-top: 30px;
+    padding: 20px;
 }
 
 #title {
     background-color: aliceblue;
     color: rgb(231, 124, 10);
+}
+img {
+    height: 310;
+    width: 310;
+    object-fit: cover;
 }
