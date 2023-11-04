@@ -1,0 +1,47 @@
+* {
+    background-color: rgb(127, 255, 212);
+}
+
+#title { 
+    text-align: center;
+    color: rgb(231, 124, 10);
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+ }
+
+.recipes {
+    text-align: center;
+}
+
+.item {
+    display: inline-block;
+    margin: 10px;
+}
+
+.kouglof,
+.baeckeoffe,
+.spatzles {
+    border-top: 1px solid rgb(231, 124, 10);
+    border-bottom: 1px solid rgb(231, 124, 10);
+    border-right: 1px solid rgb(231, 124, 10);
+    border-left: 1px solid rgb(231, 124, 10);
+    background-color: aliceblue;
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter; 
+    font-size: 24px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(231, 124, 10);
+    background-color: aliceblue;
+}
+
+img {
+    height: 210;
+    width: 210;
+    object-fit: cover;
+}
