@@ -38,6 +38,11 @@ a {
     text-decoration: none;
     color: rgb(231, 124, 10);
     background-color: aliceblue;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: brown;
 }
 
 img {
