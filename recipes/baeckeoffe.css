@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(127, 255, 212);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.intro {
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+    border-top: 1px solid rgb(231, 124, 10);
+    border-bottom: 1px solid rgb(231, 124, 10);
+    border-right: 1px solid rgb(231, 124, 10);
+    border-left: 1px solid rgb(231, 124, 10);   
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#title {
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+}
