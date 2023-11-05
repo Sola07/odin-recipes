@@ -30,8 +30,67 @@ h2{
     background-color: aliceblue;
     color: rgb(231, 124, 10);
 }
+
 img {
-    height: 310;
-    width: 310;
+    height: 180;
+    width: 180;
     object-fit: cover;
+}
+
+.item {
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+    display: inline-table;
+    margin: 10px;
+    text-align: left;
+    padding: 20px;
+    line-height: 30px;
+}
+
+.item2 {
+    background-color: aliceblue;
+    text-align: left;
+    color: rgb(231, 124, 10);
+    line-height: 30px ;
+}
+
+.item3 {
+    display: inline-block;
+    margin: 10px;
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+    text-align: center;
+    text-decoration: none;
+}
+
+a { 
+    text-decoration: none;
+    color: rgb(231, 124, 10);
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: brown;
+}
+
+#bottom {
+    font-size: 30px;
+}
+
+h3 {
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+}
+
+.spatzle,
+.kouglof {
+    border-top: 1px solid rgb(231, 124, 10);
+    border-bottom: 1px solid rgb(231, 124, 10);
+    border-right: 1px solid rgb(231, 124, 10);
+    border-left: 1px solid rgb(231, 124, 10);
+    background-color: aliceblue;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter; 
+    font-size: 20px;
 }
