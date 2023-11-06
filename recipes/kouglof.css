@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(127, 255, 212);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#kouglof {
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+}
