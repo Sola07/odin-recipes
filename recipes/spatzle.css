@@ -10,6 +10,10 @@ h2{
     font-size: 24px;
     background-color: aliceblue;
     color: rgb(231, 124, 10);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    padding: 10px;
 }
 
 .intro {
@@ -29,6 +33,10 @@ h2{
 #title {
     background-color: aliceblue;
     color: rgb(231, 124, 10);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    padding: 10px;
 }
 
 img {
@@ -54,8 +62,20 @@ img {
     color: rgb(231, 124, 10);
     text-align: left;
     text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    padding: 10px;
 }
 
+.item3 {
+    display: inline-block;
+    margin: 10px;
+    background-color: aliceblue;
+    color: rgb(231, 124, 10);
+    text-align: align;
+    text-decoration: none; 
+}
 a { 
     text-decoration: none;
     color: rgb(231, 124, 10);
@@ -73,6 +93,10 @@ a:hover {
 h3 {
     background-color: aliceblue;
     color: rgb(231, 124, 10);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    padding: 10px;
 }
 
 .baeckeoffe,
